@@ -16,8 +16,8 @@ function process(){
     const sumOfRollsUsedOverTime = squaresOfPurchasedLoorolls / dailyUseOfSquares 
 
 document.write("<link rel='stylesheet' href='loo_style.css'>");
-    document.write(`<br><h3>Your loo rolls will last ${sumOfRollsUsedOverTime.toFixed ()} 
-    days</h3>`)
+    document.write(`<br><h3>Das Toilettenpapier reicht für ${sumOfRollsUsedOverTime.toFixed ()} 
+    Tage</h3>`)
     document.close();
     
 }
