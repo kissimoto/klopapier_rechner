@@ -6,7 +6,7 @@ function process(){
     const squares4poo =  document.getElementById('squares4poo').value
     const squares4wee =  document.getElementById('squares4wee').value
 
-    //1 - Anzahl der Klopapierrollen in Squares
+    //1 - Anzahl der Klopapierrollen in Ausscnitten
     const squaresOfPurchasedLoorolls = amountLooRolls * 150
 
     // 2 - Anzahl der Klopapierrollen pro Tag- number of loo rolls used per day
